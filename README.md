@@ -1,25 +1,192 @@
+<div align="center">
 
-# 💫 About Me:
-👨‍💻 About Me<br>- 🎓 I'm a 4th-year B.Tech Computer Science Engineering student.<br>- 🤖 Passionate about Artificial Intelligence, Machine Learning, Robotics, and Intelligent Automation.<br>- 🔭 Currently building AI/ML projects and strengthening my software engineering skills.<br>- 🌱 Currently learning Advanced Data Structures & Algorithms, Advanced Machine Learning, Deep Learning, and Agentic AI.<br>- 🤝 Open to collaborating on AI, ML, Robotics, Computer Vision, and Open Source projects.<br>- 💬 Ask me about C++, Python, Machine Learning, Deep Learning, Computer Vision, Git, and DSA. <br/>- 🎯 Goal: To build intelligent systems that solve real-world problems and contribute to impactful AI research. <br/>-⚡ Fun fact: I love turning research ideas into working AI applications.
+# Hi, I'm Gona Lalith 👋
 
+### AI/ML Engineer · Computer Vision · Builder
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/glalith) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@gonalalith2005) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Gona-Lalith) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Wonderful_Law_6756/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22626115/g-lalith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gonalalith2005@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ML+systems+where+correctness+is+non-negotiable;From+transparent-object+segmentation+to+clinical+EHR+pipelines;Vision+Language+Models+%7C+GNNs+%7C+Real-world+ML;Currently%3A+patent+application+under+review+%2B+freelance+ML" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lalith557&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=lalith557&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lalith557&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/glalith)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gonalalith2005)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/REPLACE-WITH-YOUR-ORCID-ID)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonalalith2005@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lalith557&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lalith557&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+
+<div align="center">
+
+|  🔬 Patent Application Under Review  |  🖼️ 0.92 IoU on Trans10K (Spectra)  |  🧬 26.9K Patients Modeled (T2D)  |  🛠️ End-to-End ML Systems Shipped  |
+|:---:|:---:|:---:|:---:|
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=lalith557&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📋 Quick Facts
+
+| | |
+|---|---|
+| 🎯 **Focus** | Computer vision, vision-language models, and applied/clinical ML |
+| 🎓 **Education** | B.Tech CSE (AI/ML), Lovely Professional University |
+| 💼 **Status** | 🟢 Open to ML/AI Engineering internships & full-time roles |
+| 🔬 **Innovation** | Co-inventor on a patent application under review (on-device ML) |
+
+---
+
+## 🌱 Currently
+
+- 🖼️ Deepening work in **Vision Language Models** and multimodal deep learning
+- 💼 Delivering end-to-end ML solutions as a **freelance developer on Upwork**
+- 📚 Sharpening DSA fundamentals (Graphs, DP, Greedy, Trees, Binary Search) for technical interviews
+
+---
+
+## About
+
+I build machine learning systems end-to-end — from the model architecture through to a deployed, reproducible pipeline — with a focus on computer vision and high-stakes applied ML.
+
+Over the last year I've built a transparent-object segmentation model fusing a self-supervised DINOv2 ViT backbone with optical-flow cues, a progression-aware GNN framework for clinical subtyping on MIMIC-IV EHR data, and shipped real ML solutions for freelance clients. I'm also a co-inventor on a patent application under review. Every project here has real metrics, rigorous evaluation, or real users — not just notebooks.
+
+> **Focused on computer vision and vision-language models**, with an emphasis on rigorous evaluation and shipping reproducible systems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔷 Spectra — Transparent-Object Segmentation
+
+*Segments transparent objects by fusing self-supervised vision features with motion cues — then rigorously proves the gains come from the learned representation, not the pipeline.*
+
+`Python` `PyTorch` `DINOv2 (ViT)` `RAFT` `cross-attention` `FastAPI` `Docker`
+
+- **0.92 IoU on Trans10K** (**+3.6 IoU over DeepLabV3+**) by fusing a self-supervised **DINOv2 ViT backbone** with **RAFT optical-flow cues** via cross-attention
+- Rigorous evaluation suite — **ablations, bootstrap CIs, TOST testing, zero-shot transfer** — isolating gains to the learned representation
+- Shipped a reproducible pipeline (fixed seeds, deterministic training) as a containerized **FastAPI + Gradio** service (Docker/Railway) with per-image interpretability maps
+
+**[📦 Repo](https://github.com/lalith557)**
+
+---
+
+### 🔷 Graph-Based Trajectory Modeling for Type 2 Diabetes Subtyping
+
+*Moves T2D subtyping beyond static clustering — models how patients evolve over time, then validates that the subtypes actually predict different survival outcomes.*
+
+`Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `MIMIC-IV` `GNN (GAT/GCN)` `DTW`
+
+- End-to-end **GNN pipeline** (multi-scale LSTM + cross-scale attention + GAT/GCN fusion + Markov modeling) for unsupervised subtyping over **26,923 EHR patients**, beating GRU/Transformer/GRU-D baselines (silhouette 0.36 vs. ≤0.28)
+- **Leakage-free evaluation framework** (5-seed benchmarking, ablations, bootstrap CIs) and confounder-adjusted survival analysis (Cox w/ Charlson index + eGFR), lifting concordance **0.674 → 0.732**; externally validated on NHANES
+- Validated that gains came from graph-based fusion, not attention/DTW add-ons — correcting non-reproducible results into honest, code-backed findings
+
+**[📦 Repo](https://github.com/lalith557)**
+
+---
+
+### 🔷 Freelance ML Development — Upwork
+
+*Delivering production machine learning for real clients — full pipeline, from raw data to a deployed prediction API.*
+
+`Python` `Scikit-learn` `Flask` `Pandas` `NumPy` `Seaborn`
+
+- Developed **end-to-end ML solutions** for client projects — data preprocessing, feature engineering, model training, and evaluation with Python and scikit-learn
+- Deployed trained models as **RESTful APIs using Flask**, enabling real-time prediction and seamless integration into client applications
+- Conducted **exploratory data analysis** and performance visualization (Pandas, NumPy, Seaborn) to improve model accuracy and interpretability
+
+---
+
+## 🏅 Patent
+
+**Co-inventor** of a patent application **under review** for a novel on-device machine learning framework that distinguishes sensor faults from concept drift using **cross-channel coherence, temporal signatures, and rollback-protected model adaptation**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**ML / AI & Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Deep Learning / VLM Toolkit**
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![timm](https://img.shields.io/badge/timm-4B0082?style=flat-square)
+![PEFT](https://img.shields.io/badge/PEFT-2E8B57?style=flat-square)
+![OpenCLIP](https://img.shields.io/badge/OpenCLIP-1F6FEB?style=flat-square)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white)
+
+**Systems & Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Backend & Databases**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+
+---
+
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td width="60%">
+<img src="https://github-readme-stats.vercel.app/api?username=lalith557&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalith557&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com/?user=lalith557&theme=tokyonight&hide_border=true)
+
+![Daily Contributions](https://github-readme-activity-graph.vercel.app/graph?username=lalith557&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💻 Competitive Programming
+
+Actively solving DSA & CP problems.
+
+**Focus areas:** Graphs · Dynamic Programming · Greedy · Trees · Binary Search
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect
+
+I'm actively looking for **ML/AI Engineering internship & full-time roles** where I can build things that matter. If that's what you're hiring for — let's talk.
+
+[![LinkedIn](https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/glalith)
+[![Email](https://img.shields.io/badge/Email%20me-gonalalith2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonalalith2005@gmail.com)
+
+*Always building. Always measuring. Always shipping.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=lalith557&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
